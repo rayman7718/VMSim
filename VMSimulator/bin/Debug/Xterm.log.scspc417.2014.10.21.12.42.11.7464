@@ -1,0 +1,146 @@
+
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> plot "./cdf.txt" using 1:2 with linespoints[1P[1P[1P[1P-VMSimulator.PeriodicArrivalFixedDuration-" using 1:2 with liinespoints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+cdf-VMSimulator.PeriodicArrivalFixedDuration-500-VMs.txt
+cdf-VMSimulator.PeriodicArrivalFixedDuration-600-VMs.txt
+gnuplot> plot "./cdf-VMSimulator.PeriodicArrivalFixedDuration-" using 1:2 with liinespoints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C5" using 1:2 with linespoints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0" using 1:2 with linespoints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0" using 1:2 with linespoints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-VMs.txt" using 1:2 with linespoints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+gnuplot> plot "./cdf-VMSimulator.PeriodicArrivalFixedDuration-500-VMs.txt" using  1:2 with linespoints, \
+>plot "./cdf-VMSimulator.PeriodicArrivalFixedDuration-500-VMs.txt" using 1:2 withh linespoints, \[C[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C00-VMs.txt" using 1:2 with [1Plinespoints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C600-VMs.txt" using 1:2 with linespoints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C "./cdf-VMSimulator.PeriodicArrivalFixedDuration-600-VMs.txt" using 1:2 with [1Plinespoints[A[C[C[C[C "./cdf-VMSimulator.PeriodicArrivalFixedDuration-600-VMs.txt" using 1:2 with l[1Pinespoints[A[C[C[C "./cdf-VMSimulator.PeriodicArrivalFixedDuration-600-VMs.txt" using 1:2 with li[1Pnespoints[A[C[C "./cdf-VMSimulator.PeriodicArrivalFixedDuration-600-VMs.txt" using 1:2 with lin[1Pespoints[A[C
+
+gnuplot>  "./cdf-VMSimulator.PeriodicArrivalFixedDuration-600-VMs.txt" using 1:2  with linespoints[Aplot "./cdf-VMSimulator.PeriodicArrivalFixedDuration-500-VMs.txt" using 1:2 with linespoints, \[K[K[K
+gnuplot> plot "./cdf-VMSimulator.PeriodicArrivalFixedDuration-500-VMs.txt" using  1:2 with linespoints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C00-VMs.txt" using 1[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C600-VMs.txt" using [1@1[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+gnuplot> plot "./cdf-VMSimulator.PeriodicArrivalFixedDuration-600-VMs.txt" using  1:2 with linespoints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C5
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C "./cdf-VMSimulator.PeriodicArrivalFixedDuration-600-VMs.txt" using 1:2 [4P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Aplot "./cdf-VMSimulator.PeriodicArrivalFixedDuration-500-VMs.txt" using 1:2 with linespoints, \
+>plot "./cdf-VMSimulator.PeriodicArrivalFixedDuration-500-VMs.txt" using 1:2 withh linespoints, \[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C6
+[C[C[C[C[C[C[C[C[C[C[C[C[C[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C5
+[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C "./cdf-VMSimulator.PeriodicArrivalFixedDuration-600-VMs.txt" using 1:2 with lin[4Pespoints
+gnuplot>  "./cdf-VMSimulator.PeriodicArrivalFixedDuration-600-VMs.txt" using 1:2  with linespoints[Aplot "./cdf-VMSimulator.PeriodicArrivalFixedDuration-500-VMs.txt" using 1:2 with linespoints, \[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C00-VMs.txt" using 1[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C700-VMs.txt" using [1@1[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+gnuplot> plot "./cdf-VMSimulator.PeriodicArrivalFixedDuration-700-VMs.txt" using  1:2 with linespoints[A[C[C[C[C[C[C[C[C[C "./cdf-VMSimulator.PeriodicArrivalFixedDuration-600-VMs.txt" using 1:2 [4P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Aplot "./cdf-VMSimulator.PeriodicArrivalFixedDuration-500-VMs.txt" using 1:2 with linespoints, \
+>plot "./cdf-VMSimulator.PeriodicArrivalFixedDuration-500-VMs.txt" using 1:2 withh linespoints, \[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C7
+[C[C[C[C[C[C[C[C[C[C[C[C[C[K[A[C "./cdf-VMSimulator.PeriodicArrivalFixedDuration-600-VMs.txt" using 1:2 with lin[4Pespoints, \
+> "./cdf-VMSimulator.PeriodicArrivalFixedDuration-600-VMs.txt" using 1:2 with linnespoints, \[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C00-VMs.txt" using 1:2 with line[1Pspoints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C700-VMs.txt" using 1:2 with linespoints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+gnuplot>  "./cdf-VMSimulator.PeriodicArrivalFixedDuration-700-VMs.txt" using 1:2  with linespoints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C6
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C, \[A[C[C[C[C[C[C[C[C[Cplot "./cdf-VMSimulator.PeriodicArrivalFixedDuration-500-VMs.txt" using [4@1:2 [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C00-VMs.txt" using 1[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C800-VMs.txt" using [1@1[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+>plot "./cdf-VMSimulator.PeriodicArrivalFixedDuration-800-VMs.txt" using 1:2 withh linespoints, \[A[C "./cdf-VMSimulator.PeriodicArrivalFixedDuration-700-VMs.txt" using 1:2 with lin[7Pespoints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+         warning: Skipping unreadable file "./cdf-VMSimulator.PeriodicArrivalFixedDuration-800-VMs.txt"
+gnuplot> quit
+]0;/cygdrive/d/git/density2/src/VMSimulator/VMSimulator/bin/Debug
+[32mrmmathar@scspc417 [33m/cygdrive/d/git/density2/src/VMSimulator/VMSimulator/bin/Debug[0m
+$ clear
+[3;J[H[2J]0;/cygdrive/d/git/density2/src/VMSimulator/VMSimulator/bin/Debug
+[32mrmmathar@scspc417 [33m/cygdrive/d/git/density2/src/VMSimulator/VMSimulator/bin/Debug[0m
+$ gnuplot
+
+	G N U P L O T
+	Version 4.6 patchlevel 3    last modified 2013-04-12 
+	Build System: CYGWIN_NT-6.3 x86_64
+
+	Copyright (C) 1986-1993, 1998, 2004, 2007-2013
+	Thomas Williams, Colin Kelley and many others
+
+	gnuplot home:     http://www.gnuplot.info
+	faq, bugs, etc:   type "help FAQ"
+	immediate help:   type "help"  (plot window: hit 'h')
+
+Terminal type set to 'x11'
+[?1034hgnuplot> quit "./cdf-VMSimulator.PeriodicArrivalFixedDuration-700-VMs.txt" using 1:2  with linespoints[Aplot "./cdf-VMSimulator.PeriodicArrivalFixedDuration-800-VMs.txt" using 1:2 with linespoints, \[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-VMs.txt" using 1[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0-VMs.txt" using 1:[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C20-VMs.txt" using 1[1@:[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C50-VMs.txt" using [1@1[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+         warning: Skipping data file with no valid points
+                                                                                                     ^
+         x range is invalid
+
+gnuplot> plot "./cdf-VMSimulator.PeriodicArrivalFixedDuration-250-VMs.txt" using  1:2 with linespoints[A[C[C[C[C[C[C[C[C[Cquit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C "./cdf-VMSimulator.PeriodicArrivalFixedDuration-700-VMs.txt" using 1:2  with linespoints[Aplot "./cdf-VMSimulator.PeriodicArrivalFixedDuration-800-VMs.txt" using 1:2 with linespoints, \[A[C[C[C[C[C[C[C[C[C "./cdf-VMSimulator.PeriodicArrivalFixedDuration-600-VMs.txt" using 1:2 [4P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[Cplot "./cdf-VMSimulator.PeriodicArrivalFixedDuration-500-VMs.txt" using [4@1:2 [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C7
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[A[C[C[C[C[C[C[C[C[C "./cdf-VMSimulator.PeriodicArrivalFixedDuration-600-VMs.txt" using 1:2 [4P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Aplot "./cdf-VMSimulator.PeriodicArrivalFixedDuration-600-VMs.txt" using [4@1:2 [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C5
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C "./cdf-VMSimulator.PeriodicArrivalFixedDuration-600-VMs.txt" using 1:2 [4P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Aplot "./cdf-VMSimulator.PeriodicArrivalFixedDuration-500-VMs.txt" using [4@1:2 [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[28P.txt" using 1:2 with linespoints
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pset datafile separator ','[C[C[C[C[C[C[C[C[C[16Punset termset datafile separator ','
+gnuplot> set datafile separator ','[C[C[C[C[C[C[C[C[Cplot "./cdf-VMSimulator.PeriodicArrivalFixedDuration-250-VMs.txt" using  1:2 with linespoints
+gnuplot> plot "./cdf-VMSimulator.PeriodicArrivalFixedDuration-250-VMs.txt" using  1:2 with linespoints, \
+>plot "./cdf-VMSimulator.PeriodicArrivalFixedDuration-250-VMs.txt" using 1:2 withh linespoints, \[K[A[Cset datafile separator ','[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cquit[K[C "./cdf-VMSimulator.PeriodicArrivalFixedDuration-700-VMs.txt" using 1:2 with linnespoints
+         warning: Skipping unreadable file "./cdf-VMSimulator.PeriodicArrivalFixedDuration-700-VMs.txt"
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot> 
+gnuplot>  "./cdf-VMSimulator.PeriodicArrivalFixedDuration-700-VMs.txt" using 1:2  with linespoints[Aplot "./cdf-VMSimulator.PeriodicArrivalFixedDuration-250-VMs.txt" using 1:2 with linespoints, \
+>plot "./cdf-VMSimulator.PeriodicArrivalFixedDuration-250-VMs.txt" using 1:2 withh linespoints, \[A[C "./cdf-VMSimulator.PeriodicArrivalFixedDuration-700-VMs.txt" using 1:2 with lin[7Pespoints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C00-VMs.txt" using 1:2 with line[1Pspoints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C500-VMs.txt" using 1:2 with linespoints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+gnuplot>  "./cdf-VMSimulator.PeriodicArrivalFixedDuration-500-VMs.txt" using 1:2  with linespoints[Aplot "./cdf-VMSimulator.PeriodicArrivalFixedDuration-250-VMs.txt" using 1:2 with linespoints, \
+>plot "./cdf-VMSimulator.PeriodicArrivalFixedDuration-250-VMs.txt" using 1:2 withh linespoints, \[A[C "./cdf-VMSimulator.PeriodicArrivalFixedDuration-500-VMs.txt" using 1:2 with lin[7Pespoints, \
+> "./cdf-VMSimulator.PeriodicArrivalFixedDuration-500-VMs.txt" using 1:2 with linnespoints, \[K[K[C[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-VMs.txt" using 1:2 with line[1Pspoints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C750-VMs.txt" using 1:2 with linespoints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+gnuplot> set logscale x
+gnuplot> replot
+gnuplot> replotset logscale x[C[C[C[C[C[C[C[C[C "./cdf-VMSimulator.PeriodicArrivalFixedDuration-750-VMs.txt" using 1:2  with linespoints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C50
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C, \[A[C[C[C[C[C[C[C[C[Cplot "./cdf-VMSimulator.PeriodicArrivalFixedDuration-250-VMs.txt" using [4@1:2 [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0-VMs.txt" using 1[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0-VMs.txt" using 1:[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C10-VMs.txt" using 1[1@:[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0-VMs.txt" using [1@1[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0-VMs.txt" using[1@ [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+gnuplot> plot "./cdf-VMSimulator.PeriodicArrivalFixedDuration-1000-VMs.txt" usingg 1:2 with linespoints[A[C[C[C[C[C[C[C[C[Creplot[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cset logscale x[C[C[C[C[C[C[C[C[C "./cdf-VMSimulator.PeriodicArrivalFixedDuration-750-VMs.txt" using 1:2  with linespoints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C50
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C, \[A[C[C[C[C[C[C[C[C[Cplot "./cdf-VMSimulator.PeriodicArrivalFixedDuration-250-VMs.txt" using [4@1:2 [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C\[K
+>plot "./cdf-VMSimulator.PeriodicArrivalFixedDuration-250-VMs.txt" using 1:2 withh linespoints, \[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C1000-VMs.txt" using 1:2 wit[2Ph linespoints[A[Creplot[K
+[K[A[C[C[C[C[C[C[C[Cset logscale x[C "./cdf-VMSimulator.PeriodicArrivalFixedDuration-750-VMs.txt" using 1:2 with linnespoints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0-VMs.txt" using 1:2 with line[1Pspoints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0-VMs.txt" using 1:2 with lines[1Ppoints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C10-VMs.txt" using 1:2 with linespoints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0-VMs.txt" using 1:2 with linespoints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0-VMs.txt" using 1:2 with linespoints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+gnuplot> unset x
+               ^
+         Unrecognized option.  See 'help unset'.
+
+gnuplot> unset x[Klogscale x
+gnuplot> unset logscale xx[K[K[K[K[K[K[K[Kreplot
+gnuplot> replotunset logscale xx[K "./cdf-VMSimulator.PeriodicArrivalFixedDuration-1000-VMs.txt" using 1:22 with linespoints[Aplot "./cdf-VMSimulator.PeriodicArrivalFixedDuration-250-VMs.txt" using 1:2 with linespoints, \[A[C[C[C[C[C[C[C[C[C "./cdf-VMSimulator.PeriodicArrivalFixedDuration-1000-VMs.txt" using 1:2[6P with linespoints[Aplot "./cdf-VMSimulator.PeriodicArrivalFixedDuration-250-VMs.txt" using 1:2 with linespoints, \[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C50-VMs.txt" using 1[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C750-VMs.txt" using [1@1[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+>plot "./cdf-VMSimulator.PeriodicArrivalFixedDuration-750-VMs.txt" using 1:2 withh linespoints, \[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" using 1:2 with [1Plinespoints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" using 1:2 with l[1Pinespoints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" using 1:2 with li[1Pnespoints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" using 1:2 with lin[1Pespoints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" using 1:2 with line[1Pspoints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" using 1:2 with lines[1Ppoints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" using 1:2 with linesp[1Points[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" using 1:2 with linespo[1Pints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" using 1:2 with linespoi[1Pnts[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" using 1:2 with linespoin[1Pts[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" using 1:2 with linespoint[1Ps[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" using 1:2 with linespoints[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" using 1:2 with linespoints [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1@ExponentialArrivalFixedDuration-" using 1:2 with linespooints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C7" using 1:2 with linespoints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C50-VMs.txt" using 1:2 with linespoints[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C "./cdf-VMSimulator.ExponentialArrivalFixedDuration-750-VMs.txt" using 1:2 wi[1P[A[C[C[C "./cdf-VMSimulator.ExponentialArrivalFixedDuration-750-VMs.txt" using 1:2 wit[1P[A[C[C "./cdf-VMSimulator.ExponentialArrivalFixedDuration-750-VMs.txt" using 1:2 with[1P linespoints[A[C[C "./cdf-VMSimulator.ExponentialArrivalFixedDuration-750-VMs.txt" using 1:2 with [1Plinespoints[A[C
+
+gnuplot> set logscale x
+gnuplot> replot
+gnuplot> replotset logscale x[C[C[C[C[C[C[C[C[C "./cdf-VMSimulator.ExponentialArrivalFixedDuration-750-VMs.txt" using 11:2 with linespoints[A[C[C[C[C[C[C[C[C[Cplot "./cdf-VMSimulator.PeriodicArrivalFixedDuration-750-VMs.txt" using 1:2 with linespoints, \[A[C[C[C[C[C[C[C[C[Cunset logscale x[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cx[Klogscale x
+gnuplot> unset logscale x[C[C[C[C[C[C[C[C[C[10Preplot
+gnuplot> 
